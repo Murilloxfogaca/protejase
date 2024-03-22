@@ -12,7 +12,7 @@ export default function Footer() {
           </span>
         </a>
         <span class="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
-          <a class="ml-3" href="https://www.linkedin.com/in/jacklatimer/">
+          <a class="ml-3" href="https://www.linkedin.com/in/murilloxfogaca/">
             <svg
               fill="currentColor"
               stroke="currentColor"

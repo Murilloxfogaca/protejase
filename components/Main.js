@@ -6,9 +6,9 @@ export default function Main() {
     <section class="text-black body-font lg:pt-20">
       <div class="container px-5 pt-32 mx-auto lg:px-4 lg:py-4">
         <div class="flex flex-col w-full mb-2 text-left md:text-center ">
-          <h1 class="mb-2 text-8xl font-bold tracking-tighter text-white lg:text-10xl md:text-8xl">
+          <h1 class="mb-2 text-6xl font-bold tracking-tighter text-white lg:text-10xl md:text-8xl">
             <span>Proteja-se</span>
-            <br class="hidden lg:block"></br>
+            <br />
             Online
           </h1>
           <br></br>
@@ -34,7 +34,7 @@ export default function Main() {
             <img
               alt="feature"
               class="object-cover object-center h-full w-full"
-              src="./images/placeholder.png"
+              src="./images/mais.jpg"
             ></img>
           </div>
           <div class="flex flex-col flex-wrap lg:py-6 -mb-10 lg:w-1/2 lg:pl-12 lg:text-left text-center">
@@ -107,7 +107,7 @@ export default function Main() {
                     <img
                       alt="team"
                       class="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4"
-                      src="./images/placeholder.png"
+                      src="./images/biometria.jpg"
                     ></img>
                     <div class="w-full">
                       <h2 class="title-font font-medium text-lg text-white">
@@ -168,7 +168,7 @@ export default function Main() {
                     <img
                       alt="team"
                       class="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4"
-                      src="./images/placeholder.png"
+                      src="./images/softawe.jpg"
                     ></img>
                     <div class="w-full">
                       <h2 class="title-font font-medium text-lg text-white">
@@ -228,7 +228,7 @@ export default function Main() {
                     <img
                       alt="team"
                       class="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4"
-                      src="./images/placeholder.png"
+                      src="./images/seguranca.jpg"
                     ></img>
                     <div class="w-full">
                       <h2 class="title-font font-medium text-lg text-white">
@@ -287,7 +287,7 @@ export default function Main() {
                     <img
                       alt="team"
                       class="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4"
-                      src="./images/placeholder.png"
+                      src="./images/remoto.jpg"
                     ></img>
                     <div class="w-full">
                       <h2 class="title-font font-medium text-lg text-white">
