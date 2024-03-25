@@ -27,7 +27,16 @@ export default function Main() {
           </p>
         </div>
       </div>
-      <div className="container flex flex-col items-center justify-center py-8 mx-auto rounded-lg md:p-1 p-3">
+      <div className="md:w-1/4 m-auto text-center">
+        <a
+          href=""
+          target="_blank"
+          className="bg-gray-300 hover:bg-gray-500 text-white font-bold py-2 px-4 rounded inline-flex items-center"
+        >
+          <span>Responder Formulário</span>
+        </a>
+      </div>
+      <div className="container mt-4 flex flex-col items-center justify-center py-8 mx-auto rounded-lg md:p-1 p-3">
         <Image
           className="object-cover object-center w-full mb-10 border-white dark:border-white g327 border rounded-lg shadow-md"
           alt="hero"
@@ -353,6 +362,18 @@ export default function Main() {
                       </span>
                     </div>
                   </div>
+                </div>
+                <div className="md:w-1/4 m-auto">
+                  <h2 className="title-font mb-4 text-4xl font-bold tracking-tighter text-white">
+                    Ajude na pesquisa:
+                  </h2>
+                  <a
+                    href=""
+                    target="_blank"
+                    className="bg-gray-300 hover:bg-gray-500 text-white-600 font-bold py-2 px-4 rounded inline-flex items-center"
+                  >
+                    <span>Responder Formulário</span>
+                  </a>
                 </div>
               </div>
             </div>
