@@ -29,7 +29,7 @@ export default function Main() {
       </div>
       <div className="md:w-1/4 m-auto text-center">
         <a
-          href=""
+          href="https://docs.google.com/forms/d/e/1FAIpQLSfSLGs6MtTqoK5yi-xUA0qe7aWd-usQOeXy0qapH4TY_uZjow/viewform"
           target="_blank"
           className="bg-gray-300 hover:bg-gray-500 text-white font-bold py-2 px-4 rounded inline-flex items-center"
         >
@@ -368,7 +368,7 @@ export default function Main() {
                     Ajude na pesquisa:
                   </h2>
                   <a
-                    href=""
+                    href="https://docs.google.com/forms/d/e/1FAIpQLSfSLGs6MtTqoK5yi-xUA0qe7aWd-usQOeXy0qapH4TY_uZjow/viewform"
                     target="_blank"
                     className="bg-gray-300 hover:bg-gray-500 text-white-600 font-bold py-2 px-4 rounded inline-flex items-center"
                   >
